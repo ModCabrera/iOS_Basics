@@ -2,10 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground"
-
-
-
 // This is a single line comment in Swift
 
 
